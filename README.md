@@ -8,7 +8,7 @@ Here is a list of classes that may help with understanding of the threat levels 
 
 
 **Classifications:**
-**THERE ARE 10 CLASSIFICATIONS**
+**THERE ARE 8 CLASSIFICATIONS**
 
 **Secured (safe)**
 Secured Anomalies are Anomalies that are very easy to contain, or very easily protected.
